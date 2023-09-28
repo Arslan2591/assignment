@@ -11,8 +11,8 @@ This project is a simple social networking application designed for apartment dw
 ## Getting Started
 Follow the instructions below to set up the project locally.
 ### Prerequisites
-- Python (3.7 or higher)
-- Node.js (10.13 or higher)
+- Python (3.8 or higher)
+- Node.js (16.x or higher)
 ### Backend Setup
 1. **Clone the repository:**
     ```bash
